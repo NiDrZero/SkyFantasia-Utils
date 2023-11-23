@@ -1,2 +1,2 @@
 # Zeros-Utils
-Personal WIP Util Modlist For SkyrimSE
+Personal WIP Visual/Audio Util Modlist For SkyrimSE
