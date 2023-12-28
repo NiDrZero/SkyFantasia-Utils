@@ -1,2 +1,2 @@
-# Zeros-Utils
-Personal WIP Visual/Audio Util Modlist For SkyrimSE
+# Zeros BoBW Utils
+WIP Util Modlist For SkyrimSE BoBW Made With My Personal Preferance
